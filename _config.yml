@@ -1,6 +1,7 @@
 title: Sheen's academic homepage
 # Comment out url when working locally to resolve base urls correctly
-url: https://academic.sheensong.top
+url: https://sheensong.top
+baseurl: /academic
 
 # Owner/author information
 owner:

@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="/images/zhengjianzhao.jpg" class="floatpic" width="360" height="480">
+<img src="{{ site.url }}{{ site.baseurl }}/images/zhengjianzhao.jpg" class="floatpic" width="360" height="480">
 
 Here is **Guanghui Song(sheen, 宋广辉)**.
 
