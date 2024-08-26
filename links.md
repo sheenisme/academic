@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /others/index.html
-title: Others
+permalink: /links/index.html
+title: Links
 ---
 
 ## Other links
