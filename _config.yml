@@ -7,15 +7,15 @@ owner:
   avatar: touxiang2.jpg
   name: Guanghui Song(宋广辉)
   # bio: Two roads diverged in woods, I took the one less traveled by.
-  description: His English name is sheen, and he is a PhD student at Hunan University, focusing on advanced compilation and high-performance computing.
+  description: My English name is sheen, and I am a PhD student at Hunan University, focusing on advanced compilation and high-performance computing.
   # email: sheensong@163.com
   email: sheensong@hnu.edu.cn
   scholar: https://scholar.google.com/citations?user=J0M1TAQAAAAJ
   researchgate: https://www.researchgate.net/profile/Guang-Song-9
   zhihu: https://www.zhihu.com/people/sheen-66-52
-  cv: /file/CV.pdf
   github: sheenisme
 
+  # cv: /file/CV.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   # linkedin: hanlincai
@@ -39,16 +39,18 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
+  - title: Experiences
+    url: /experiences/
   - title: Publications
     url: /publications/
+  - title: Projects
+    url: /projects/
   - title: Awards
     url: /awards/
-  # - title: Hobbies
-  #   url: /hobbies/
-  # - title: Blogs
-  #   url: /blogs/
-  # - title: Teams
-  #   url: /teams/
+  - title: CV
+    url: /cv/
+  - title: Others
+    url: /others/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
