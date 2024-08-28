@@ -3,44 +3,32 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 ---
-
-> Update: 3rd August 2024
->
+> Update: 30 August 2024<br />
 > (†: equal contribution, ~: corresponding author)
 
 ## Conference Paper
 
-- BLEGuard: Hybrid Detection Mechanism for Safeguarding Bluetooth Low Energy Networks Against Spoofing Attacks<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu~<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. Also presented in MobiSys 2024 Poster Session.<br>Barcelona, Spain. June, 2024.
+- **[PPoPP 2024]** A Holistic Approach to Automatic Mixed-Precision Code Generation and Tuning for Affine Programs<br />
+  Jinchen Xu†, **Guanghui Song**†, Bei Zhou, Fei Li, Jiangwei Hao, and Jie Zhao~<br />
+  In Proceedings of the 29th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, Edinburgh, United Kingdom. Jul 2024.<br />
+  [[PDF](https://dl.acm.org/doi/10.1145/3627535.3638484)]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[PPoPP 2024 Slide](/academic/file/mypaper/ppopp2024-presentation.pptx)]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[CCF Chip 2024 Slide](/academic/file/mypaper/CCFChip2024_report.pptx)]<br />
+- **[ASE 2023]** Eiffel: Inferring Input Ranges of Significant Floating-point Errors via Polynomial Extrapolation<br />
+  Zuoyan Zhang†, Bei Zhou, Jiangwei Hao, Hongru Yang, Mengqi Cui, Yuchang Zhou, **Guanghui Song**, Fei Li, Jinchen Xu, and Jie Zhao~<br />
+  In Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering, Kirchberg, Luxembourg. Sep 2023.<br />
+  [[PDF](https://ieeexplore.ieee.org/document/10298397)]<br/>
+  
 
-  <br>
+---
 
+## Journal Articles
+
+- Automatic Mixed Precision Optimization for Stencil Computation<br />
+  **Guanghui Song**†, Shaozhong Guo, Jie Zhao, Xiaohan Tao, Fei Li, Jinchen Xu~<br />
+  Journal of Software<br />
+  [[PDF](https://jos.org.cn/jos/article/abstract/6757)]<br />
 
 ---
 
 ## Degree Thesis
 
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). **Best Bachelor Thesis Award** (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China Huading Tech and IIoT Lab<br>
-
-  <br>
-
----
-
-## Manuscript
-
 TBA.
-
-<br>
-
----
-
-## Early Project
-
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project (FYP).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>AAAI Conference on Artificial Intelligence. Undergraduate Consortium.<br>Vancouver, Canada. February, 2024.
-
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- An IoT Garbage Monitoring System for Effective Garbage Management<br>*First-year course design.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
-
-  <br>
