@@ -16,7 +16,6 @@ title: Publications
   Zuoyan Zhang†, Bei Zhou, Jiangwei Hao, Hongru Yang, Mengqi Cui, Yuchang Zhou, **Guanghui Song**, Fei Li, Jinchen Xu, and Jie Zhao~<br />
   In Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering, Kirchberg, Luxembourg. Sep 2023.<br />
   [[PDF](https://ieeexplore.ieee.org/document/10298397)]<br/>
-  
 
 ---
 
@@ -24,8 +23,16 @@ title: Publications
 
 - Automatic Mixed Precision Optimization for Stencil Computation<br />
   **Guanghui Song**†, Shaozhong Guo, Jie Zhao, Xiaohan Tao, Fei Li, Jinchen Xu~<br />
-  Journal of Software<br />
+  Journal of Software, 2023,34(12):5704-5723.<br />
   [[PDF](https://jos.org.cn/jos/article/abstract/6757)]<br />
+- Performance optimization of  RISC-V basic math library<br />
+  Fei Li†, Shaozhong Guo, Bei Zhou, **Guanghui Song**, Jiangwei Hao, Jinchen Xu~<br />
+  Computer Engineering & Science, 2023, 45(09): 1532-1543.<br />
+  [[PDF](http://joces.nudt.edu.cn/CN/Y2023/V45/I09/1532)]<br />
+- Basic Math Library Implementation for RISC-V<br />
+  Fei Li†, Shaozhong Guo, Jiangwei Hao, Ming Hou, **Guanghui Song**, Jinchen Xu~<br />
+  Acta Electronica Sinica, 2024, 52(5): 1633-1647.<br />
+  [[PDF](https://doi.org/10.12263/DZXB.20220375)]<br />
 
 ---
 

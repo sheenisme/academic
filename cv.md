@@ -4,11 +4,11 @@ permalink: /cv/index.html
 title: CV
 ---
 
+## Online CV
 
-## Online
+> Lastest Update: 30 August 2024.
 
-Lastest Update: 20th May 2024 &nbsp; [CV](/file/awards-zh/)
-
+[Online CV](https://sheensong.top/blog/CV)
 
 ## PDF
-[点击即可下载](https://ojs.aaai.org/index.php/AAAI/article/view/30544)
+[Click to download](/academic/file/CV.pdf)

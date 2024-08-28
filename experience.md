@@ -139,7 +139,7 @@ title: Experiences
             </td>
             <td>
                 <p>
-                    a <a href="https://li.jobs.feishu.cn/index/position/7116417702164613412/detail">compiler development internship</a> in <a href="https://li.jobs.feishu.cn/index/position/7116417702164613412/detail">Thewake Systems Co.Ltd</a>, responsible for developing and porting <a href="https://github.com/THeWakeSystems/fcc.git">FCC</a> compiler.
+                    a compiler development internship in <a href="http://www.thewakesystems.com">Thewake Systems Co.Ltd</a>, responsible for developing and porting <a href="https://github.com/THeWakeSystems/fcc.git">FCC compiler</a>.
                 </p>
             </td>
         </tr>
