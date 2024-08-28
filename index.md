@@ -8,21 +8,18 @@ layout: page
 
 Here is **Guanghui Song(sheen, 宋广辉)**.
 
-I am a final-year undergrad majoring in EECS at Fuzhou University and Maynooth University (Combined Degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI & KDD UC Scholar**.
+I am a Ph.D. student at Hunan University under the supervision of  [Prof. Jie Zhao](https://yaozhujia.github.io). I worked at [Li Auto Inc.](https://www.lixiang.com/about.html) in the position of AI compiler development engineer, from July 2023 to August 2024. And I received my Academic Master Degree in Computer Science and Technology from the State Key Laboratory of Mathematical Engineering and Advanced Computing, University of Information Engineering.My research interests include advanced compilation techniques and high performance computing, with a special focus on polyhedral compilation, mixed-precision computational acceleration, and distributed parallel acceleration for large language models. My research has been recognised by PPoPP, ASE, Journal of Software and others.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+If you are interested in any aspect of my work, I would love to chat and collaborate, please email me at - *sheensong@hnu.edu.cn*.
 
 ---
 
 ## News and Updates
 
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/call-for-undergraduate-consortium/). See you in Spain!
-- **May 2024：**My undergraduate thesis won the Best Project Award (Top 1/300).
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- **Sep 2024**: Resigned from Li Auto Inc. and entered Hunan University as a graduate student.
+- **Jul 2024**: Attended the [CCF Chip 2024](https://conf.ccf.org.cn/web/api/m1216328594754768896171003693528.action) conference to report on my paper.
+- **Mar 2024**: Went to Edinburgh to attend the [PPoPP 2024](https://conf.researchr.org/track/PPoPP-2024/PPoPP-2024-papers) conference and give a live report.
+- **Nov 2023**: Paper entitled [A Holistic Approach to Automatic Mixed-Precision Code Generation and Tuning for Affine Programs](https://dl.acm.org/doi/10.1145/3627535.3638484) accepted at the PPoPP 2024 conference.
+- **Jul 2023**: Graduated from the University of Information Engineering and joined Li Auto Inc. as an R&D engineer.
+- **Aug 2022**: Paper titled [Automatic Mixed Precision Optimization for Stencil Computation](https://jos.org.cn/jos/article/abstract/md001) accepted by Journal of Software.
 
