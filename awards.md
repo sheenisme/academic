@@ -14,14 +14,14 @@ title: Awards
 - Oct 2019:&nbsp;&nbsp;Henan University of Technology&nbsp;&nbsp;Innovation and Entrepreneurship Scholarships
 - Nov 2017:&nbsp;&nbsp;Henan University of Technology&nbsp;&nbsp;National Inspiration Scholarships
 
-## Competitions (Selected)
+## Competitions
 
 - Jul 2019:&nbsp;&nbsp;Henan University of Technology&nbsp;&nbsp;Internet+ College Students' Innovation and Entrepreneurship Competition&nbsp;&nbsp;"Excellence Award" 
 - Jan 2018:&nbsp;&nbsp;National University Students Mathematical Modelling Network Challenge Competition&nbsp;&nbsp;"Excellence Award"
 - Dec 2017:&nbsp;&nbsp;ASUS Creative Marketing Challenge "National Third Place"
 - May 2017:&nbsp;&nbsp;The Fifth Qinxue Cup Mathematics Subject Competition of Henan University of Technology&nbsp;&nbsp;"Second Prize"
 
-## Services
+## Social Services
 
 - Mar 2024:&nbsp;&nbsp;Li Auto Inc. Proactive&nbsp;&nbsp;"Excellent Individual"
 - Jun 2020:&nbsp;&nbsp;Henan University of Technology&nbsp;&nbsp;"Excellent Recent Graduates"
