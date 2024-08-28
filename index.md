@@ -19,7 +19,7 @@ If you are interested in any aspect of my work, I would love to chat and collabo
 - **Sep 2024**: Resigned from Li Auto Inc. and entered [Hunan University](https://www-en.hnu.edu.cn) as a graduate student.
 - **Jul 2024**: Attended the [CCF Chip 2024](https://conf.ccf.org.cn/web/api/m1216328594754768896171003693528.action) conference to report on my paper.
 - **Mar 2024**: Went to Edinburgh to attend the [PPoPP 2024](https://conf.researchr.org/track/PPoPP-2024/PPoPP-2024-papers) conference and give a live report.
-- **Nov 2023**: Paper entitled [A Holistic Approach to Automatic Mixed-Precision Code Generation and Tuning for Affine Programs](https://dl.acm.org/doi/10.1145/3627535.3638484) accepted at the PPoPP 2024 conference.
+- **Nov 2023**: Paper entitled [A Holistic Approach to Automatic Mixed-Precision Code Generation and Tuning for Affine Programs](https://dl.acm.org/doi/10.1145/3627535.3638484) accepted by the PPoPP 2024 conference.
 - **Jul 2023**: Graduated from the University of Information Engineering and joined [Li Auto Inc.](https://www.lixiang.com/about.html) as an R&D engineer.
 - **Aug 2022**: Paper titled [Automatic Mixed Precision Optimization for Stencil Computation](https://jos.org.cn/jos/article/abstract/md001) accepted by Journal of Software.
 
