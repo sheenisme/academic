@@ -8,3 +8,14 @@
 
 ### 参考链接
 The original version of source code for this website can be found [here](https://github.com/GuangLun2000/GuangLun2000.github.io).
+
+### 使用说明
+
+```bash
+gem install jekyll bundler
+bundle install
+
+bundle exec jekyll build
+bundle exec jekyll serve
+# http://127.0.0.1:4000/academic/
+```

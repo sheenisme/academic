@@ -8,7 +8,7 @@ layout: page
 
 Here is **Guanghui Song(sheen, 宋广辉)**.
 
-I am a Ph.D. student at Hunan University under the supervision of  [Prof. Jie Zhao](https://yaozhujia.github.io). I worked at [Li Auto Inc.](https://www.lixiang.com/about.html) in the position of AI compiler development engineer, from July 2023 to August 2024. And I received my Academic Master Degree in Computer Science and Technology from the State Key Laboratory of Mathematical Engineering and Advanced Computing, University of Information Engineering.My research interests include advanced compilation techniques and high performance computing, with a special focus on polyhedral compilation, mixed-precision computational acceleration, and distributed parallel acceleration for large language models. My research has been recognised by PPoPP, ASE, Journal of Software and others.
+I am a Ph.D. student at Hunan University under the supervision of  [Prof. Jie Zhao](https://yaozhujia.github.io). I worked at Li Auto Inc. in the position of AI compiler development engineer, from July 2023 to August 2024. And I received my Academic Master Degree in Computer Science and Technology from the State Key Laboratory of Mathematical Engineering and Advanced Computing, University of Information Engineering. My research interests include advanced compilation techniques and high performance computing, with a special focus on polyhedral compilation, mixed-precision computational acceleration, and distributed parallel acceleration for large language models. My research has been recognised by PPoPP, ASE, Journal of Software and others.
 
 If you are interested in any aspect of my work, I would love to chat and collaborate, please email me at - *sheensong@hnu.edu.cn*.
 
