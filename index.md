@@ -6,7 +6,7 @@ layout: page
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/zhengjianzhao.jpg" class="floatpic" width="360" height="480">
 
-Here is **[Guanghui Song](https://sheensong.top/academic/)(宋广辉, English name is sheen)**.
+Here is **Guanghui Song(宋广辉, English name is sheen)**.
 
 I am a Ph.D. student at Hunan University under the supervision of  [Prof. Jie Zhao](https://yaozhujia.github.io). I worked at Li Auto Inc. in the position of AI compiler development engineer, from July 2023 to August 2024. And I received my Academic Master Degree in Computer Science and Technology from the State Key Laboratory of Mathematical Engineering and Advanced Computing, Information Engineering University. My research interests include advanced compilation techniques and high performance computing, with a special focus on polyhedral compilation, mixed-precision computational acceleration, and distributed parallel acceleration for large language models. My research has been recognised by PPoPP, ASE, Journal of Software and others.
 
