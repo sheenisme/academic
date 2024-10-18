@@ -5,7 +5,7 @@ title: Links
 ---
 
 ## My Links
-<br>
+
 [My website homepage](https://sheensong.top)
 <br>
 [My blog post](https://sheensong.top/blog)
@@ -16,10 +16,10 @@ title: Links
 <br>
 
 ## Other Links
-<br>
+
 [Hunan University](https://www-en.hnu.edu.cn)
 <br>
 [Li Auto Inc.](https://www.lixiang.com/about.html)
 <br>
-[Henan University of Technology](https://www.haut.edu.cn)
+[Henan University of Technology](https://www.haut.edu.cn/International.htm)
 <br>
