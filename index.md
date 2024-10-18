@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: root
 ---
 
 # About Me
