@@ -3,12 +3,10 @@ layout: page
 permalink: /cv/index.html
 title: CV
 ---
+## PDF Format
 
-## Online CV
+The curriculum vitae is available in a PDF format.
 
-> Lastest Update: 30 August 2024.
+> Lastest Update: 10 January 2025.
 
-[Online CV](https://sheensong.top/blog/CV)
-
-## PDF
 [Click to download](/academic/file/CV.pdf)

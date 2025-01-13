@@ -6,12 +6,6 @@ title: Experiences
 
 # Education Experiences
 
-<!-- 
-- **2024.09 - Now**: Doctor - Computer Science and Technology <br/>[Hunan University](https://www-en.hnu.edu.cn), Changsha, China.
-- **2020.09 - 2023.07**: Master - Computer Science and Technology <br/>the Information Engineering University, Zhengzhou, China.
-- **2016.09 - 2020.07**: Bachelor - Computer Science and Technology <br/>[Henan University of Technology](https://www.haut.edu.cn), Zhengzhou, China. 
-  -->
-
 <html>
     <table>
         <tr>
@@ -60,7 +54,7 @@ title: Experiences
             <td>
                 <p>
                     Information Engineering University, Zhengzhou, China <br/>
-                    Supervisor:&nbsp;Dr. Jinchen Xu
+                    Supervisor:&nbsp;Prof. Shaozhong Guo and Assoc. Prof. Jinchen Xu
                 </p>
             </td>
         </tr>
@@ -127,7 +121,7 @@ title: Experiences
                 &nbsp;&nbsp;&nbsp;
             </td>
             <td>
-                <b>Internships</b>
+                <b>Research Intern</b>
             </td>
         </tr>
         <tr>

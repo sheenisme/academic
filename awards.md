@@ -12,7 +12,7 @@ title: Awards
 - Jun 2022:&nbsp;&nbsp;Information Engineering University&nbsp;&nbsp;Academic Scholarship&nbsp;&nbsp;Second Class Scholarship
 - Jun 2021:&nbsp;&nbsp;Information Engineering University&nbsp;&nbsp;Academic Scholarship&nbsp;&nbsp;Second Class Scholarship
 - Oct 2019:&nbsp;&nbsp;Henan University of Technology&nbsp;&nbsp;Innovation and Entrepreneurship Scholarships
-- Nov 2017:&nbsp;&nbsp;Henan University of Technology&nbsp;&nbsp;National Inspiration Scholarships
+- Nov 2017:&nbsp;&nbsp;Ministry of Education of China&nbsp;&nbsp;National Inspiration Scholarships
 
 ## Competitions
 
