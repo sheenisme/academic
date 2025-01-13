@@ -9,7 +9,7 @@ title: Publications
 ## Conference Paper
 
 - **[PPoPP 2024]** A Holistic Approach to Automatic Mixed-Precision Code Generation and Tuning for Affine Programs<br />
-  Jinchen Xu*, **Guanghui Song***, Bei Zhou, Fei Li, Jiangwei Hao, and Jie Zhao†<br />
+  Jinchen Xu\*, **Guanghui Song**\*, Bei Zhou, Fei Li, Jiangwei Hao, and Jie Zhao†<br />
   In Proceedings of 29th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, Edinburgh, United Kingdom. Jul 2024.<br />
   [[PDF](https://dl.acm.org/doi/10.1145/3627535.3638484)]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[PPoPP 2024 Slide](/academic/file/mypaper/ppopp2024-presentation.pptx)]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[[CCF Chip 2024 Slide](/academic/file/mypaper/CCFChip2024_report.pptx)]<br />
 - **[ASE 2023]** Eiffel: Inferring Input Ranges of Significant Floating-point Errors via Polynomial Extrapolation<br />

@@ -8,9 +8,9 @@ title: Awards
 
 ## Scholarships
 
-- Jun 2023:&nbsp;&nbsp;Information Engineering University&nbsp;&nbsp;Academic Scholarship&nbsp;&nbsp;First Class Scholarship
-- Jun 2022:&nbsp;&nbsp;Information Engineering University&nbsp;&nbsp;Academic Scholarship&nbsp;&nbsp;Second Class Scholarship
-- Jun 2021:&nbsp;&nbsp;Information Engineering University&nbsp;&nbsp;Academic Scholarship&nbsp;&nbsp;Second Class Scholarship
+- Jun 2023:&nbsp;&nbsp;Information Engineering University&nbsp;&nbsp;First Class Academic Scholarship
+- Jun 2022:&nbsp;&nbsp;Information Engineering University&nbsp;&nbsp;Second Class Academic Scholarship
+- Jun 2021:&nbsp;&nbsp;Information Engineering University&nbsp;&nbsp;Second Class Academic Scholarship
 - Oct 2019:&nbsp;&nbsp;Henan University of Technology&nbsp;&nbsp;Innovation and Entrepreneurship Scholarships
 - Nov 2017:&nbsp;&nbsp;Ministry of Education of China&nbsp;&nbsp;National Inspiration Scholarships
 

@@ -9,4 +9,4 @@ The curriculum vitae is available in a PDF format.
 
 > Lastest Update: 10 January 2025.
 
-[Click to download](/academic/file/CV.pdf)
+[Click to download](/academic/file/cv.pdf)
