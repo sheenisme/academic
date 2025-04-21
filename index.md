@@ -4,7 +4,7 @@ layout: pages
 
 # About Me
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/zhengjianzhao.jpg" class="floatpic" width="360" height="480">
+<img src="{{ site.url }}{{ site.baseurl }}/images/public_academic_photo_small.jpg" class="floatpic" width="360" height="480">
 
 Here is **Guanghui Song(宋广辉, Guanghui in Chinese means sheen in English)**.
 
@@ -13,11 +13,7 @@ I am a PhD candidate at Hunan University under the supervision of  [Prof. Jie Zh
 If you are interested in any aspect of my work, I would love to chat and collaborate, please email me at - *sheensong@hnu.edu.cn*.
 
 ---
-
-## News and Updates
-
-- **Mar 2025**: Received a student travel grant from the LLVM Foundation for [EuroLLVM 2025](https://llvm.swoogo.com/2025eurollvm/home).
-- **Dec 2024**: Ran for the president of the [CCF Hunan University Student Chapter](https://mp.weixin.qq.com/s/AFaJoxtjnA_FEd2XJSJbUA).
+- **Apr 2025**: Moderated Session 6 (Student Talks and Technical Talk) at [EuroLLVM 2025](https://llvm.swoogo.com/2025eurollvm/home) in Berlin through on-site participation, supported by a student travel grant awarded by the LLVM Foundation.
 - **Sep 2024**: Resigned from Li Auto Inc. and entered [Hunan University](https://www-en.hnu.edu.cn) as a graduate student.
 - **Jul 2024**: Attended the [CCF Chip 2024](https://conf.ccf.org.cn/web/api/m1216328594754768896171003693528.action) conference to report on my paper.
 - **Mar 2024**: Went to Edinburgh to attend the [PPoPP 2024](https://conf.researchr.org/track/PPoPP-2024/PPoPP-2024-papers) conference and give a live report.
