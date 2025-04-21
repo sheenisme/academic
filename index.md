@@ -4,7 +4,7 @@ layout: pages
 
 # About Me
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/public_academic_photo_small.jpg" class="floatpic" width="360" height="480">
+<img src="{{ site.url }}{{ site.baseurl }}/images/zhengjianzhao.jpg" class="floatpic" width="360" height="480">
 
 Here is **Guanghui Song(宋广辉, Guanghui in Chinese means sheen in English)**.
 
