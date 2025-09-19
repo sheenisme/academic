@@ -9,7 +9,7 @@ layout: pages
 
 I am **[Guanghui Song](https://sheensong.top/academic/)**, a PhD student at [Hunan University](https://www-en.hnu.edu.cn) under the supervision of [Prof. Jie Zhao](https://yaozhujia.github.io). Previously, I worked as an AI Compiler Development Engineer at [Li Auto Inc.](https://www.lixiang.com/about.html) (2023-2024) and received my Master's degree from Information Engineering University.
 
-### 🔬 Research Interests
+### Research Interests
 - **Advanced Compilation Techniques**: Polyhedral compilation and optimization
 - **High Performance Computing**: Mixed-precision computational acceleration
 - **Hardware Acceleration**: High-level synthesis (HLS) and FPGA optimization
