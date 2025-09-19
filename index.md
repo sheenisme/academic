@@ -2,10 +2,8 @@
 layout: pages
 ---
 
-# Guanghui Song (宋广辉)
+## Guanghui Song (宋广辉)
 > *"Guanghui" in Chinese means "sheen" in English*
-
-## 👨‍🎓 About Me
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/zhengjianzhao.jpg" class="floatpic" width="360" height="480">
 
@@ -19,12 +17,14 @@ I am **[Guanghui Song](https://sheensong.top/academic/)**, a PhD student at [Hun
 
 My research has been published in top-tier venues including **PPoPP**, **ASE**, and **Journal of Software**.
 
-### 📫 Contact
+### Contact
 I'm always interested in collaboration and discussion about my research areas. Feel free to reach out:
 - 📧 Email: [sheensong@hnu.edu.cn](mailto:sheensong@hnu.edu.cn)
 - 🌐 Academic Website: [sheensong.top/academic](https://sheensong.top/academic/)
 
-## 📰 News and Updates
+---
+
+## News and Updates
 
 - **Sep 2025**: Began a research internship at the [National University of Singapore (NUS) School of Computing](https://www.comp.nus.edu.sg) as a visiting research intern
 - **Jun 2025**: Attended [PLDI 2025](https://pldi25.sigplan.org/) conference in South Korea, supported by the [PLMW @ PLDI 2025 scholarship](https://pldi25.sigplan.org/home/PLMW-pldi-2025)

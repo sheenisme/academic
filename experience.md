@@ -91,6 +91,30 @@ title: Experiences
     <table>
         <tr>
             <td nowrap="nowrap">
+                2025.02 - 2025.09
+            </td>
+            <td>
+                &nbsp;&nbsp;&nbsp;
+            </td>
+            <td>
+                <b>AI Compiler R&D  Intern</b>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;&nbsp;&nbsp;&nbsp;
+            </td>
+            <td>
+                &nbsp;&nbsp;&nbsp;
+            </td>
+            <td>
+                <p>
+                    an AI Compiler R&D Intern in <a href="https://www.evas.ai/en">EVAS Intelligence</a>, responsible for researching and developing compiler tools for various models on self-developed AI chip.
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap="nowrap">
                 2023.07 - 2024.08
             </td>
             <td>
