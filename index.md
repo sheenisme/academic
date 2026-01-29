@@ -5,7 +5,7 @@ layout: pages
 ## Guanghui Song (宋广辉)
 > *"Guanghui" in Chinese means "sheen" in English*
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/zhengjianzhao.jpg" class="floatpic" width="360" height="480">
+<!-- <img src="{{ site.url }}{{ site.baseurl }}/images/zhengjianzhao.jpg" class="floatpic" width="360" height="480"> -->
 
 I am **[Guanghui Song](https://sheensong.top/academic/)**, a PhD student at [Hunan University](https://www-en.hnu.edu.cn) under the supervision of [Prof. Jie Zhao](https://yaozhujia.github.io). Previously, I worked as an AI Compiler Development Engineer at [Li Auto Inc.](https://www.lixiang.com/about.html) (2023-2024) and received my Master's degree from Information Engineering University.
 
