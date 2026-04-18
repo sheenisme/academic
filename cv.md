@@ -7,6 +7,6 @@ title: CV
 
 The curriculum vitae is available in a PDF format.
 
-> Lastest Update: 6 January 2026.
+> Latest update: 18 April 2026.
 
 [Click to download](/academic/file/cv.pdf)

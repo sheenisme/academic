@@ -7,15 +7,14 @@ layout: pages
 
 <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/zhengjianzhao.jpg" class="floatpic" width="360" height="480"> -->
 
-I am **[Guanghui Song](https://sheensong.top/academic/)**, a PhD student at [Hunan University](https://www-en.hnu.edu.cn) under the supervision of [Prof. Jie Zhao](https://yaozhujia.github.io). Previously, I worked as an AI Compiler Development Engineer at [Li Auto Inc.](https://www.lixiang.com/about.html) (2023-2024) and received my Master's degree from Information Engineering University.
+I am **[Guanghui Song](https://sheensong.top/academic/)**, a PhD student at [Hunan University](https://www-en.hnu.edu.cn) under the supervision of [Prof. Jie Zhao](https://yaozhujia.github.io). I completed my master's degree at Information Engineering University and then worked as an AI Compiler R&D Engineer at [Li Auto Inc.](https://www.lixiang.com/about.html), before starting my PhD.
 
 ### Research Interests
-- **Advanced Compilation Techniques**: Polyhedral compilation and optimization
-- **High Performance Computing**: Mixed-precision computational acceleration
-- **Hardware Acceleration**: High-level synthesis (HLS) and FPGA optimization
-- **Programming Languages**: Compiler design and optimization techniques
+- **Advanced Compilation Techniques**: Polyhedral analysis and scheduling, affine loop optimizations, and dataflow-oriented mapping from loop nests and graphs to efficient forms — often through LLVM/MLIR-based passes and reusable compiler pipelines.
+- **Hardware Acceleration**: Hardware-aware compilation and mapping for NPUs and spatial and reconfigurable architectures (CGRA, FPGA), and HLS-oriented flows—covering operator lowering, pipelining, and resource utilization from IR down to accelerator execution.
+- **High Performance Computing**: Mixed-precision code generation and autotuning for numerical kernels, lightweight analytical performance models, and scalable execution strategies on parallel and specialized hardware.
 
-My research has been published in top-tier venues including **PPoPP**, **ASE**, and **Journal of Software**.
+My research has appeared in venues such as **ISCA**, **PPoPP**, **TACO**, **ASE**, and the **Journal of Software**.
 
 ### Contact
 I'm always interested in collaboration and discussion about my research areas. Feel free to reach out:
@@ -26,6 +25,8 @@ I'm always interested in collaboration and discussion about my research areas. F
 
 ## News and Updates
 
+- **Mar 2026**: Paper "[Dynamic Scheduling for AI Accelerators via TISA](https://orcid.org/0009-0001-8089-1151)" accepted by **ISCA 2026**
+- **Mar 2026**: Paper "[A Decoupled Analytical Model for Tile Size Selection in Affine Programs](https://dl.acm.org/doi/10.1145/3806056)" accepted by **ACM TACO**
 - **Sep 2025**: Began a research internship at the [National University of Singapore (NUS) School of Computing](https://www.comp.nus.edu.sg) as a visiting research intern
 - **Jun 2025**: Attended [PLDI 2025](https://pldi25.sigplan.org/) conference in South Korea, supported by the [PLMW @ PLDI 2025 scholarship](https://pldi25.sigplan.org/home/PLMW-pldi-2025)
 - **Apr 2025**: Moderated Session 6 (Student Talks and Technical Talk) at [EuroLLVM 2025](https://llvm.swoogo.com/2025eurollvm/home) in Berlin, supported by a student travel grant from the LLVM Foundation

@@ -91,55 +91,7 @@ title: Experiences
     <table>
         <tr>
             <td nowrap="nowrap">
-                2025.02 - 2025.09
-            </td>
-            <td>
-                &nbsp;&nbsp;&nbsp;
-            </td>
-            <td>
-                <b>AI Compiler R&D  Intern</b>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                &nbsp;&nbsp;&nbsp;&nbsp;
-            </td>
-            <td>
-                &nbsp;&nbsp;&nbsp;
-            </td>
-            <td>
-                <p>
-                    an AI Compiler R&D Intern in <a href="https://www.evas.ai/en">EVAS Intelligence</a>, responsible for researching and developing compiler tools for various models on self-developed AI chip.
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td nowrap="nowrap">
-                2023.07 - 2024.08
-            </td>
-            <td>
-                &nbsp;&nbsp;&nbsp;
-            </td>
-            <td>
-                <b>Full-time employees</b>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                &nbsp;&nbsp;&nbsp;&nbsp;
-            </td>
-            <td>
-                &nbsp;&nbsp;&nbsp;
-            </td>
-            <td>
-                <p>
-                    an <a href="https://li.jobs.feishu.cn/index/position/7116417702164613412/detail">R&D engineer</a> in <a href="https://www.lixiang.com/about.html">Li Auto Inc.</a>, responsible for developing AI operators and AI compiler on self-developed chips.
-                </p>
-            </td>
-        </tr>
-        <tr>
-            <td nowrap="nowrap">
-                2022.06 - 2022.09
+                2025.09 - 2026.04
             </td>
             <td>
                 &nbsp;&nbsp;&nbsp;
@@ -157,7 +109,79 @@ title: Experiences
             </td>
             <td>
                 <p>
-                    a compiler development internship in <a href="http://www.thewakesystems.com">Thewake Systems Co.Ltd</a>, responsible for developing and porting <a href="https://github.com/THeWakeSystems/fcc.git">FCC compiler</a>.
+                    Research intern at the <a href="https://www.comp.nus.edu.sg">School of Computing</a>, <a href="https://www.nus.edu.sg">National University of Singapore</a>, working on coarse-grained CGRA mapping, polyhedral scheduling, and analytical performance models.
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap="nowrap">
+                2025.02 - 2025.10
+            </td>
+            <td>
+                &nbsp;&nbsp;&nbsp;
+            </td>
+            <td>
+                <b>AI Compiler R&amp;D Intern</b>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;&nbsp;&nbsp;&nbsp;
+            </td>
+            <td>
+                &nbsp;&nbsp;&nbsp;
+            </td>
+            <td>
+                <p>
+                    AI compiler R&amp;D intern at <a href="https://www.evas.ai/en">EVAS Intelligence</a>, contributing to tile-level ISA design, compiler passes, and scheduling for self-developed AI accelerators.
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap="nowrap">
+                2023.07 - 2024.08
+            </td>
+            <td>
+                &nbsp;&nbsp;&nbsp;
+            </td>
+            <td>
+                <b>AI Compiler R&amp;D Engineer</b>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;&nbsp;&nbsp;&nbsp;
+            </td>
+            <td>
+                &nbsp;&nbsp;&nbsp;
+            </td>
+            <td>
+                <p>
+                    <a href="https://li.jobs.feishu.cn/index/position/7116417702164613412/detail">AI Compiler R&amp;D Engineer</a> at <a href="https://www.lixiang.com/about.html">Li Auto Inc.</a>, developing AI operators and compiler stacks for in-house AI chips, including co-design with architects and verification on virtual platforms, RTL simulation, and FPGA.
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td nowrap="nowrap">
+                2022.06 - 2022.09
+            </td>
+            <td>
+                &nbsp;&nbsp;&nbsp;
+            </td>
+            <td>
+                <b>Compiler Development Intern</b>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                &nbsp;&nbsp;&nbsp;&nbsp;
+            </td>
+            <td>
+                &nbsp;&nbsp;&nbsp;
+            </td>
+            <td>
+                <p>
+                    Compiler development internship at <a href="http://www.thewakesystems.com">Thewake Systems Co. Ltd</a>, developing and porting the <a href="https://github.com/THeWakeSystems/fcc.git">FCC compiler</a>.
                 </p>
             </td>
         </tr>

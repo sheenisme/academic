@@ -4,10 +4,12 @@ permalink: /file/awards-zh/index.html
 title: Awards-zh
 ---
 
-> 更新时间：2024/08/30 &nbsp; [English Version (英文)](/academic/awards)
+> 更新时间：2026/04/18 &nbsp; [English Version (英文)](/academic/awards)
 
 ## 奖学金
 
+- 2025年05月：PLMW @ PLDI 2025&nbsp;奖学金
+- 2025年03月：EuroLLVM 开发者会议&nbsp;学生差旅资助
 - 2023年06月：信息工程大学&nbsp;一等学业奖学金
 - 2022年06月：信息工程大学&nbsp;二等学业奖学金
 - 2021年06月：信息工程大学&nbsp;二等学业奖学金
@@ -17,7 +19,7 @@ title: Awards-zh
 ## 比赛
 
 - 2019年07月：河南工业大学互联网+大学生创新创业大赛&nbsp;“优秀奖”
-- 2018年01月：全国大学生数学建模网络挑战赛&nbsp;优秀奖”
+- 2018年01月：全国大学生数学建模网络挑战赛&nbsp;“优秀奖”
 - 2017年12月：华硕创意营销挑战赛&nbsp;“全国季军”
 - 2017年05月：河南工业大学第五届勤学杯数学学科竞赛&nbsp;“二等奖”
 

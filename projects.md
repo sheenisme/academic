@@ -9,7 +9,10 @@ This page collects a(n incomplete) list of open-source projects that Guanghui So
 
 ## PrecTuner
 ![prectuner](/academic/images/prectuner.jpg)
-We presents a holistic approach – [*PrecTuner*](https://gitee.com/link?target=https%3A%2F%2Fgithub.com%2Fsheenisme%2Flnlamp.git) – by closely coupling the code generator and the autotuner via only one parameter *r* . Initialized by automatically sampled values, *r* is first used to generate several code variants in the polyhedral model, combining this optimization with loop transformations. These code variants are then used to solve a performance model expressed in terms of *r* , possibly under a quality degradation budget. The value of *r*  that produces the best-performing mixed-precision code is finally predicted without evaluating all code variants.
+We present a holistic approach – [*PrecTuner*](https://github.com/sheenisme/lnlamp) – by closely coupling the code generator and the autotuner via only one parameter *r* . Initialized by automatically sampled values, *r* is first used to generate several code variants in the polyhedral model, combining this optimization with loop transformations. These code variants are then used to solve a performance model expressed in terms of *r* , possibly under a quality degradation budget. The value of *r*  that produces the best-performing mixed-precision code is finally predicted without evaluating all code variants.
+
+## AutoPoly
+[*AutoPoly*](https://github.com/sheenisme/AutoPoly) is an architecture-aware polyhedral scheduling tool built on MLIR. It lifts affine kernels into polyhedral SCoPs, builds dependence-aware graphs, and targets backends such as a CGRA-oriented scheduler (ISL/PPCG) with validity, coincidence, and proximity constraints, wavefront and tiling reshaping, and mesh-friendly marks for downstream codegen. A unified CLI/Python driver (`autopoly`) supports toolchain detection, scheduling, lowering to LLVM IR, and configurable pass pipelines.
 
 ## Early Projects
 - [Fcc compiler](https://github.com/THeWakeSystems/fcc.git) is based on LLVM, adding internal IP to the latest open source compiler, designing a new middle layer to load more program information, breaking the independence of each optimization tool and choosing profiling independently to achieve program optimization for multi-core parallelization and heterogeneous systems.

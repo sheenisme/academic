@@ -14,6 +14,10 @@ title: Links
 <br>
 [Laboratory - CYCLE Lab](https://cyclelaboratory.github.io)
 <br>
+[NUS School of Computing](https://www.comp.nus.edu.sg)
+<br>
+[EVAS Intelligence](https://www.evas.ai/en)
+<br>
 
 ## Other Links
 

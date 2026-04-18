@@ -4,10 +4,12 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Lastest Update: 30 August 2024 &nbsp; [中文版本 (Chinese Version)](/academic/file/awards-zh/index.html)
+> Latest update: 18 April 2026 &nbsp; [中文版本 (Chinese Version)](/academic/file/awards-zh/index.html)
 
 ## Scholarships
 
+- May 2025:&nbsp;&nbsp;PLMW @ PLDI 2025&nbsp;&nbsp;Scholarship
+- Mar 2025:&nbsp;&nbsp;EuroLLVM Developer's Meeting&nbsp;&nbsp;Student Travel Grant
 - Jun 2023:&nbsp;&nbsp;Information Engineering University&nbsp;&nbsp;First Class Academic Scholarship
 - Jun 2022:&nbsp;&nbsp;Information Engineering University&nbsp;&nbsp;Second Class Academic Scholarship
 - Jun 2021:&nbsp;&nbsp;Information Engineering University&nbsp;&nbsp;Second Class Academic Scholarship
