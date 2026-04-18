@@ -14,14 +14,14 @@ title: Links
 <br>
 [Laboratory - CYCLE Lab](https://cyclelaboratory.github.io)
 <br>
-[NUS School of Computing](https://www.comp.nus.edu.sg)
-<br>
-[EVAS Intelligence](https://www.evas.ai/en)
-<br>
 
 ## Other Links
 
+[NUS School of Computing](https://www.comp.nus.edu.sg)
+<br>
 [Hunan University](https://www-en.hnu.edu.cn)
+<br>
+[EVAS Intelligence](https://www.evas.ai/en)
 <br>
 [Li Auto Inc.](https://www.lixiang.com/about.html)
 <br>
