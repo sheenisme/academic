@@ -35,5 +35,5 @@ I'm always interested in collaboration and discussion about my research areas. F
 - **Jul 2024**: Presented research at [CCF Chip 2024](https://conf.ccf.org.cn/web/api/m1216328594754768896171003693528.action) conference
 - **Mar 2024**: Presented paper at [PPoPP 2024](https://conf.researchr.org/track/PPoPP-2024/PPoPP-2024-papers) conference in Edinburgh
 - **Nov 2023**: Paper "[A Holistic Approach to Automatic Mixed-Precision Code Generation and Tuning for Affine Programs](https://dl.acm.org/doi/10.1145/3627535.3638484)" accepted at **PPoPP 2024**
-- **Jul 2023**: Graduated with Master's degree from Information Engineering University and joined [Li Auto Inc.](https://www.lixiang.com/about.html) as AI Compiler Development Engineer
+- **Jul 2023**: Graduated with Master's degree from Information Engineering University and joined [Li Auto Inc.](https://www.lixiang.com/about.html) as AI Compiler R&D Engineer
 - **Aug 2022**: Paper "[Automatic Mixed Precision Optimization for Stencil Computation](https://jos.org.cn/jos/article/abstract/6757)" accepted in **Journal of Software** (Master's thesis work)
