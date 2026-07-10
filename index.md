@@ -14,7 +14,7 @@ I am **[Guanghui Song](https://sheensong.top/academic/)**, a PhD student at [Hun
 - **Hardware Acceleration**: Hardware-aware compilation and mapping for NPUs and spatial and reconfigurable architectures (CGRA, FPGA), and HLS-oriented flows—covering operator lowering, pipelining, and resource utilization from IR down to accelerator execution.
 - **High Performance Computing**: Mixed-precision code generation and autotuning for numerical kernels, lightweight analytical performance models, and scalable execution strategies on parallel and specialized hardware.
 
-My research has appeared in venues such as **ISCA**, **PPoPP**, **TACO**, **ASE**, and the **Journal of Software**.
+My research has appeared in venues such as **ISCA**, **PPoPP**, **MICRO**, **TACO**, **ASE**, and the **Journal of Software**.
 
 ### Contact
 I'm always interested in collaboration and discussion about my research areas. Feel free to reach out:
