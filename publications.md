@@ -14,8 +14,8 @@ title: Publications
 - **[ISCA 2026]** Dynamic Scheduling for AI Accelerators via TISA<br />
   **Guanghui Song**\*, Xiaoqiang Dan\*, Chengke Wang, Fei Liu, Wenyuan Lv, Zhongzhou Jiang, Jianjian Guan, Teng Lu, Lin Tao, Cheng Li, Weixing Pan, Wei Huang, Zirong Shen, Yi Yang, Hui Liu, and Jie Zhao†<br />
   In Proceedings of the 53rd Annual International Symposium on Computer Architecture (ISCA 2026), Raleigh, NC, USA. 27 June–01 July 2026.<br />
-  [[PDF](https://doi.org/10.1109/ISCA66397.2026.00174)]
-  [[Slide_en](/academic/file/mypaper/tisa_slides.pdf)]
+  [[PDF](https://doi.org/10.1109/ISCA66397.2026.00174)]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [[Slide_en](/academic/file/mypaper/tisa_slides.pdf)]&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   [[Slide_zh](/academic/file/mypaper/tisa_slides_zh.pdf)]<br />
 - **[PPoPP 2024]** A Holistic Approach to Automatic Mixed-Precision Code Generation and Tuning for Affine Programs<br />
   Jinchen Xu\*, **Guanghui Song**\*, Bei Zhou, Fei Li, Jiangwei Hao, and Jie Zhao†<br />
