@@ -33,7 +33,7 @@ I'm always interested in collaboration and discussion about my research areas. F
 - **Apr 2025**: Moderated Session 6 (Student Talks and Technical Talk) at [EuroLLVM 2025](https://llvm.swoogo.com/2025eurollvm/home) in Berlin, supported by a student travel grant from the LLVM Foundation
 
 <details markdown="1">
-<summary>Earlier updates (2024 and before)</summary>
+<summary>▸ Earlier updates (2024 and before)</summary>
 
 - **Dec 2024**: Ran for president of the [CCF Hunan University Student Chapter](https://mp.weixin.qq.com/s/AFaJoxtjnA_FEd2XJSJbUA)
 - **Sep 2024**: Started PhD studies at [Hunan University](https://www-en.hnu.edu.cn) after leaving Li Auto Inc.
