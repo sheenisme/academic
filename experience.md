@@ -115,7 +115,7 @@ title: Experiences
         </tr>
         <tr>
             <td nowrap="nowrap">
-                2025.02 - 2025.10
+                2025.02 - 2025.08
             </td>
             <td>
                 &nbsp;&nbsp;&nbsp;

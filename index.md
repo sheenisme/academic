@@ -25,10 +25,10 @@ I'm always interested in collaboration and discussion about my research areas. F
 
 ## News and Updates
 
-- **Jul 2026**: Our paper "[Efficient GPU Inference for Discrete Neural Networks](https://sheensong.top/academic/)" accepted by **MICRO 2026**
+- **Jul 2026**: Our paper "Efficient GPU Inference for Discrete Neural Networks" was accepted by **MICRO 2026**
 - **Mar 2026**: Paper "[Dynamic Scheduling for AI Accelerators via TISA](https://doi.org/10.1109/ISCA66397.2026.00174)" accepted by **ISCA 2026**
-- **Mar 2026**: Our paper "[A Decoupled Analytical Model for Tile Size Selection in Affine Programs](https://dl.acm.org/doi/10.1145/3806056)" accepted by **ACM TACO**
-- **Sep 2025**: Began a research internship at the [National University of Singapore (NUS) School of Computing](https://www.comp.nus.edu.sg) as a visiting research intern
+- **Mar 2026**: Our paper "[A Decoupled Analytical Model for Tile Size Selection in Affine Programs](https://doi.org/10.1145/3806056)" was published in **ACM TACO**
+- **Sep 2025–Apr 2026**: Worked as a research intern at the [National University of Singapore (NUS) School of Computing](https://www.comp.nus.edu.sg)
 - **Jun 2025**: Attended [PLDI 2025](https://pldi25.sigplan.org/) conference in South Korea, supported by the [PLMW @ PLDI 2025 scholarship](https://pldi25.sigplan.org/home/PLMW-pldi-2025)
 - **Apr 2025**: Moderated Session 6 (Student Talks and Technical Talk) at [EuroLLVM 2025](https://llvm.swoogo.com/2025eurollvm/home) in Berlin, supported by a student travel grant from the LLVM Foundation
 - **Dec 2024**: Ran for president of the [CCF Hunan University Student Chapter](https://mp.weixin.qq.com/s/AFaJoxtjnA_FEd2XJSJbUA)
@@ -36,5 +36,5 @@ I'm always interested in collaboration and discussion about my research areas. F
 - **Jul 2024**: Presented research at [CCF Chip 2024](https://conf.ccf.org.cn/web/api/m1216328594754768896171003693528.action) conference
 - **Mar 2024**: Presented paper at [PPoPP 2024](https://conf.researchr.org/track/PPoPP-2024/PPoPP-2024-papers) conference in Edinburgh
 - **Nov 2023**: Paper "[A Holistic Approach to Automatic Mixed-Precision Code Generation and Tuning for Affine Programs](https://dl.acm.org/doi/10.1145/3627535.3638484)" accepted at **PPoPP 2024**
-- **Jul 2023**: Graduated with Master's degree from Information Engineering University and joined [Li Auto Inc.](https://www.lixiang.com/about.html) as AI Compiler R&D Engineer
+- **Jul 2023**: Graduated with a master's degree from Information Engineering University and joined [Li Auto Inc.](https://www.lixiang.com/about.html) as an AI Compiler R&D Engineer
 - **Aug 2022**: Paper "[Automatic Mixed Precision Optimization for Stencil Computation](https://jos.org.cn/jos/article/abstract/6757)" accepted in **Journal of Software** (Master's thesis work)
